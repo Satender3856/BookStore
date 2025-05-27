@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name":"HTML",
+        "Title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.developerdrive.com/wp-content/uploads/2013/02/book-cover.jpg"
+
+
+    },
+    {
+        "id": 2,
+        "name":"CSS",
+        "Title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://joeattardi.com/_next/static/media/modern-css-cover.6f0aa1da.jpg"
+
+
+    },
+    {
+        "id": 3,
+        "name":"JAVASCRPIT",
+        "Title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://d2sofvawe08yqg.cloudfront.net/functional-programming-in-js-with-categories/s_hero?1620603202"
+
+
+    },
+    {
+        "id": 4,
+        "name":"REACTJS",
+        "Title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "price":100,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/81x8Qt-q1ZL._UF1000,1000_QL80_.jpg"
+
+
+    },
+    {
+        "id": 5,
+        "name":"TAILWIND CSS",
+        "Title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "price":100,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/71Dccru3SAL._UF1000,1000_QL80_.jpg"
+
+
+    },
+    {
+        "id": 6,
+        "name":"NODEJS",
+        "Title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "price":100,
+        "category":"Free",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZHErp8SQOzefVAtkJLtA6-MzD1-_tydUgVA&s"
+
+
+    },
+    {
+        "id": 7,
+        "name":"EXPRESS",
+        "Title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "price":100,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/713elKMGFkL._AC_UF1000,1000_QL80_.jpg"
+
+
+    },
+    {
+        "id": 8,
+        "name":"MONGODB",
+        "Title":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+        "price":100,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/61JASYS+V7L._AC_UF1000,1000_QL80_.jpg"
+
+
+    }
+]
